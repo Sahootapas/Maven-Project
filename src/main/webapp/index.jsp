@@ -1,6 +1,6 @@
 <html>
 <body>
-<html> V2 </html>	
+<html> V3 </html>	
 <h1><marquee><font color='red'> Welcome to Cyberphoton  - Software Training Institute <font></marquee></h1>
 
 <a href="www.cyberphoton.com">Click Here To See Cyberphoton session</a>
